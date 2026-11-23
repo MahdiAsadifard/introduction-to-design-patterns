@@ -35,16 +35,13 @@ flowchart LR
 | Client | `CommandDemo` (or a button) | Creates commands and passes them to the invoker |
 
 ## How it runs
-
-
-https://github.com/user-attachments/assets/a09831a4-ebb8-46dd-a42e-ac44bb23bcd3
-
-
 | Step | Call | History stack | Editor text |
 |---|---|---|---|
 | 1 | `Run("Hello")` | Hello | `Hello` |
 | 2 | `Run(" World")` | Hello, **World** (top) | `Hello World` |
 | 3 | `Undo()` | Hello | `Hello` |
+
+https://github.com/user-attachments/assets/a09831a4-ebb8-46dd-a42e-ac44bb23bcd3
 
 ---
 
