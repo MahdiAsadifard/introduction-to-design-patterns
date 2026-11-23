@@ -36,6 +36,10 @@ flowchart LR
 
 ## How it runs
 
+
+https://github.com/user-attachments/assets/a09831a4-ebb8-46dd-a42e-ac44bb23bcd3
+
+
 | Step | Call | History stack | Editor text |
 |---|---|---|---|
 | 1 | `Run("Hello")` | Hello | `Hello` |
@@ -43,8 +47,5 @@ flowchart LR
 | 3 | `Undo()` | Hello | `Hello` |
 
 ---
-
-[Video](./Command_Pattern.mp4)
-
 
 ⬅️ [Observer](Observer.md) · ➡️ [Summary](../Summary.md)
