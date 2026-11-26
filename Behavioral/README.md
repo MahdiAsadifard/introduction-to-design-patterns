@@ -41,7 +41,10 @@ flowchart LR
 | 2 | `Run(" World")` | Hello, **World** (top) | `Hello World` |
 | 3 | `Undo()` | Hello | `Hello` |
 
-https://github.com/user-attachments/assets/a09831a4-ebb8-46dd-a42e-ac44bb23bcd3
+## Watch the video
+
+[![Watch the video](https://img.youtube.com/vi/a5vckWGkFFE/hqdefault.jpg)](https://www.youtube.com/shorts/a5vckWGkFFE)
+
 
 ---
 
