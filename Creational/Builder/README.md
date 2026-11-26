@@ -12,7 +12,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > Build complex objects step by step
-
----
-
-⬅️ [FactoryMethod](../FactoryMethod/FactoryMethod.md) · ➡️ [Structural](../Structural/Structural.md)

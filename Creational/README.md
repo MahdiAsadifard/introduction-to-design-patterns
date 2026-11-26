@@ -11,7 +11,3 @@
 | Prototype | |
 
 <sub>★ = highlighted in this video</sub>
-
----
-
-⬅️ [Counts](../Counts.md) · ➡️ [Singleton](Singleton.md)

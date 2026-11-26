@@ -13,7 +13,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > Reuse old code without changing it
-
----
-
-⬅️ [Structural](Structural.md) · ➡️ [Decorator](Decorator.md)

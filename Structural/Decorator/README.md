@@ -16,7 +16,3 @@ flowchart TB
 
 > 🟢 **BENEFIT**<br/>
 > Add features at runtime by wrapping
-
----
-
-⬅️ [Adapter](Adapter.md) · ➡️ [Facade](Facade.md)

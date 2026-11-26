@@ -14,7 +14,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > One controlled, shared instance
-
----
-
-⬅️ [Creational](../Creational.md) · ➡️ [FactoryMethod](../FactoryMethod/FactoryMethod.md)

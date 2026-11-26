@@ -15,7 +15,3 @@ flowchart TB
 
 > 🟢 **BENEFIT**<br/>
 > Swap behavior without editing code
-
----
-
-⬅️ [Behavioral](Behavioral.md) · ➡️ [Observer](Observer.md)

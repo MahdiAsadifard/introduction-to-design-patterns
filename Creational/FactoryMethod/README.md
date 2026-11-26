@@ -15,7 +15,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > Object creation in one place
-
----
-
-⬅️ [Singleton](Singleton.md) · ➡️ [Builder](Builder.md)

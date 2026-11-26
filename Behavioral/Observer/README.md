@@ -14,7 +14,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > One change notifies many listeners
-
----
-
-⬅️ [Strategy](Strategy.md) · ➡️ [Command](Command.md)

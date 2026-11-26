@@ -10,9 +10,3 @@
 | **★ [Facade](Facade.md)** | Bridge |
 | Composite | Flyweight |
 | Proxy | |
-
-<sub>★ = highlighted in this video</sub>
-
----
-
-⬅️ [Builder](../Creational/Builder.md) · ➡️ [Adapter](Adapter.md)

@@ -16,7 +16,3 @@ flowchart LR
 
 > 🟢 **BENEFIT**<br/>
 > One simple entry point
-
----
-
-⬅️ [Decorator](Decorator.md) · ➡️ [Behavioral](../Behavioral/Behavioral.md)
